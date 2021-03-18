@@ -6,7 +6,7 @@ import java.math.BigInteger
 class Conta(
     val agencia: String
     val numero: String
-    val saldo: BigInteger
+    val saldo: BigDecimal
 
 ) {
     fun deposito(valor: BigDecimal){
