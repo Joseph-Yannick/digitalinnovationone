@@ -31,7 +31,7 @@ fun main() {
     }
 
     println("--------------")
-    values.sort() // Imprimir a lista na ordem cresente!
+    values.sort() // Imprimir a lista na ordem cresente
     for (valor in values) {
         println(valor)
 
