@@ -1,7 +1,7 @@
 package one.digitalinnovation.collections
 
 fun main() {
-    val ana = Funcionario (nome = "Ana Luíza", salario = 1600.0, tipoContratacao = "PJ")
+    val ana = Funcionario (nome = "Ana Luíza", salario = 1550.0, tipoContratacao = "PJ")
     val almir = Funcionario (nome = "Almir Cerqueira", salario = 1230.0, tipoContratacao = "PJ")
     val vilma = Funcionario (nome = "Vilma Cerqueira", salario = 1600.0, tipoContratacao = "PJ")
     val joseph = Funcionario (nome = "Joseph Yannick", salario = 1735.0, tipoContratacao = "CLT")
